@@ -2,6 +2,8 @@
 
 ### Get全栈技能点 Vue2.0/Node.js/MongoDB 打造商城系统
 
+http://imooc.51purse.com
+
 ##### 技术栈
 
 前端: vue-router + axios + vuex
